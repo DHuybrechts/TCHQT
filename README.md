@@ -5,6 +5,6 @@ The study of quantum many-body physics in Liouvillian open quantum systems becom
 
 
 ## The Example Code
-An example for a simulation can be found in `run_simulation.m`. We refer to Ref. [1] for more information on the method. Please cite the article if you found the code useful.
+An example for a simulation can be found in `run_simulation.m`. We refer to Ref. [1] for more information on the method. Please cite the article if you used or found the code useful.
 
 [1] [W. Verstraelen](https://scholar.google.com/citations?user=CHa_9PsAAAAJ&hl=nl&oi=ao), [D. Huybrechts](https://scholar.google.com/citations?user=r2nXt3EAAAAJ&hl=nl&oi=ao), [T. Roscilde](https://scholar.google.com/citations?user=Tk89gMMAAAAJ&hl=nl&oi=ao), [M. Wouters](https://scholar.google.com/citations?user=iOKzmK0AAAAJ&hl=nl&oi=ao), Quantum and classical correlations in open quantum-spin lattices via truncated-cumulant trajectories, [arXiv:2209.13377v3](https://doi.org/10.48550/arXiv.2209.13377) (2022).
